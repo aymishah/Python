@@ -1,0 +1,11 @@
+# Core
+numpy
+pandas
+scikit-learn==1.3.2
+joblib
+matplotlib
+# Optional (comment out if not needed)
+xgboost
+# Web
+Flask
+# GUI (optional alternative)\sstreamlit
